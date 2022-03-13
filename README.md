@@ -1,3 +1,7 @@
+# Notes for developing
+Compile scss with this command
+```sass --watch ./src/custom.scss .src/custom.css```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
